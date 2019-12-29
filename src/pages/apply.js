@@ -7,6 +7,7 @@ const ApplyPage = () => {
             <Layout>
             <h1>Apply Here!</h1>
             <p>Dummy</p>
+            <p>Test</p>
             </Layout>
     )
 
