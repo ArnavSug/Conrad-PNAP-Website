@@ -6,7 +6,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Title from siteMetadata`,
-    author: `Author`,
+    title: `Product and Nutrition Analysis Platform (PNAP)`,
+    author: `Arnav Sugavanam, Aditya Bhatia, Dhruv Joshi, Nishvath Ramananandan, Aman Kumar`,
   }
 }
