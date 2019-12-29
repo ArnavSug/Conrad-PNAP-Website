@@ -12,7 +12,6 @@ export const Header = () => {
             }
         }
     }
-    
     `)
     return (
         <header className={headerStyles.header}>   
