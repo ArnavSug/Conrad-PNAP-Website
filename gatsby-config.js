@@ -5,5 +5,8 @@
  */
 
 module.exports = {
-  /* Your site config here */
+  siteMetadata: {
+    title: `Product and Nutrition Analysis Platform (PNAP)`,
+    author: `Arnav Sugavanam, Aditya Bhatia, Dhruv Joshi, Nishvath Ramananandan, Aman Kumar`,
+  }
 }
