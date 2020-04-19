@@ -6,7 +6,7 @@ const SearchPage = () => {
     var data = [
         {
             foodName: 'Built Custom Cheeseburger',
-            allergins: 'Milk, Soy, Wheat Gluten'
+            allergins: 'Milk, Soy, Wheat, Gluten, Meat'
         },
         {
             foodName: 'Ice Cream',
@@ -14,7 +14,7 @@ const SearchPage = () => {
         },
         {
             foodName: 'Cookies',
-            allergins: 'Nuts'
+            allergins: 'Nuts, Eggs'
         },
         {
             foodName: 'Pastries',
@@ -54,7 +54,7 @@ const SearchPage = () => {
             <input
               type="text"
               aria-label="Search"
-              placeholder="Type to filter posts..."
+              placeholder="Type an allergen here..."
               onChange={handleInputChange}
             />
             {
